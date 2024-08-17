@@ -1,0 +1,9 @@
+streamlit
+streamlit_chat
+langchain
+langchain_openai
+langchain_anthropic
+langchain_google_genai
+langchain-core
+openai
+python-dotenv
