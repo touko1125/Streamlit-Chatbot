@@ -31,8 +31,8 @@ def create_llm_model(use_model: str):
 
 def setup_ui():
     """Streamlit UIを設定する"""
-    st.title("Langchain Chat")
-    st.caption("Powered by Langchain. Created in Leaders Advance 2024.")
+    st.title("大規模言語モデル比較サイト")
+    st.caption("Created in Leaders Advance 2024.")
     
     # モデル選択のプルダウンメニュー
     model_choice = st.selectbox(
